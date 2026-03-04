@@ -1,0 +1,7 @@
+flask
+flask-socketio
+pyautogui
+mss
+pillow
+python-socketio
+werkzeug
